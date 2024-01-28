@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: poppins;
+    background-color: palevioletred;
+    text-align: left;
+    padding: 100px;
+  }
+
+#judul {
+    text-align: center;
+    color: palevioletred;
+}
+
+#biodata {
+    max-width: 600px;
+    margin: 0 auto;
+    width: 700px;
+    height: 222px;
+    background-color: palevioletred;
+    color: white;
+    padding: 20px;
+    border-radius: 2px;
+  }
+
+button {
+    padding: 10px 20px;
+    background-color: white;
+    color: palevioletred;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
